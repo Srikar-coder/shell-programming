@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-read -p "Enter number " num
+read -p "Enter number" num
 if [ $num -eq 1 ]
 then
 echo unit
